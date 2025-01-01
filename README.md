@@ -1,5 +1,5 @@
 # Firebase Chat App
-
+https://www.youtube.com/watch?v=O4SQlpPZEdo&list=PLgpnJydBcnPB-aQ6P5hWCHBjy8LWZ9x4w
 Welcome to the Firebase Chat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
 ## Activity Files
